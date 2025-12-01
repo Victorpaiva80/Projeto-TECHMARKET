@@ -1,0 +1,15 @@
+techmarket-payments-template/
+│
+├── src/
+│   ├── index.js
+│   ├── db.js
+│   └── transfer.js
+│
+├── db/
+│   ├── schema.sql
+│   └── seed.sql
+│
+├── .env.example
+├── package.json
+├── docker-compose.yml
+└── README.md
